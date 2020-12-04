@@ -4,6 +4,6 @@
 
 
 
-### Works with any 4 digit pin encrypted using b64, although 
-### i dont think it should be too hard to implement more commonly 
-### used encryption methods. 
+#### Works with any 4 digit pin encrypted using b64, although 
+#### i dont think it should be too hard to implement more commonly 
+#### used encryption methods. 
